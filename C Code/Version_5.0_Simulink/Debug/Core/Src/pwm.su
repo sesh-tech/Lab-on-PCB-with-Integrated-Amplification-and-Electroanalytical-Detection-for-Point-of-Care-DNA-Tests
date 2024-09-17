@@ -1,0 +1,5 @@
+../Core/Src/pwm.c:11:6:PWMInit	24	static
+../Core/Src/pwm.c:37:6:UpdatePWMFreq	24	static
+../Core/Src/pwm.c:67:6:SetPWMDuty	16	static
+../Core/Src/pwm.c:81:6:StartPWM	16	static
+../Core/Src/pwm.c:103:6:StopPWM	16	static

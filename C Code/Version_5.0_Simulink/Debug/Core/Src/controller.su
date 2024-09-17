@@ -1,0 +1,6 @@
+../Core/Src/controller.c:14:6:setControllerParameters	40	static
+../Core/Src/controller.c:39:6:setControllerGains	32	static
+../Core/Src/controller.c:61:6:changeControllerGains	24	static
+../Core/Src/controller.c:68:6:startController	16	static
+../Core/Src/controller.c:73:7:getControllerOutput	16	static
+../Core/Src/controller.c:134:7:calcualteMovingAverage	16	static

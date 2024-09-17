@@ -1,0 +1,3 @@
+../Core/Src/moving_average.c:10:6:initializeMovingAverage	2
+../Core/Src/moving_average.c:24:7:calculateMovingAverage	1
+../Core/Src/moving_average.c:41:7:getMovingAverage	1

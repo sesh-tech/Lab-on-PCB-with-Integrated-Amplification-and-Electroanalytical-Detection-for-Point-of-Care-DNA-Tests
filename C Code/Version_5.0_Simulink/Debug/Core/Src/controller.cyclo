@@ -1,0 +1,6 @@
+../Core/Src/controller.c:14:6:setControllerParameters	1
+../Core/Src/controller.c:39:6:setControllerGains	1
+../Core/Src/controller.c:61:6:changeControllerGains	1
+../Core/Src/controller.c:68:6:startController	1
+../Core/Src/controller.c:73:7:getControllerOutput	6
+../Core/Src/controller.c:134:7:calcualteMovingAverage	1

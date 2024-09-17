@@ -1,0 +1,4 @@
+../Core/Src/analog_in.c:19:6:ADC_Create_Start	24	static
+../Core/Src/analog_in.c:54:6:ADC_Channel_Init	24	static
+../Core/Src/analog_in.c:71:6:ADC_Calibrate	16	static
+../Core/Src/analog_in.c:101:10:Analog_Value	16	static

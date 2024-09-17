@@ -1,0 +1,5 @@
+../Core/Src/pwm.c:11:6:PWMInit	1
+../Core/Src/pwm.c:37:6:UpdatePWMFreq	2
+../Core/Src/pwm.c:67:6:SetPWMDuty	5
+../Core/Src/pwm.c:81:6:StartPWM	5
+../Core/Src/pwm.c:103:6:StopPWM	5

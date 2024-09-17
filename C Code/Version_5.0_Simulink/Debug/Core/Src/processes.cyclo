@@ -1,0 +1,2 @@
+../Core/Src/processes.c:23:6:Task1ISR	2
+../Core/Src/processes.c:85:6:Task2ISR	2
